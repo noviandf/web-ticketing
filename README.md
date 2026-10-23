@@ -1,4 +1,3 @@
-```markdown
 # IT Ticketing & Hardware Telemetry System
 
 A web-based internal tool built for IT Support operations to streamline ticket lifecycle management, track client device telemetry via PowerShell automation, and deliver real-time system notifications.
