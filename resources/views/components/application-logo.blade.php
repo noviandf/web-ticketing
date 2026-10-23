@@ -1,0 +1,1 @@
+<img src="{{ asset('img/tgalogo.png') }}" {{ $attributes->merge(['class' => 'h-9 w-auto object-contain']) }} alt="Logo IT Helpdesk">
